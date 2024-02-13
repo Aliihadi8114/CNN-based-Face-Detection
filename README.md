@@ -18,13 +18,13 @@ The project consists of three main components:
 
 ![](https://github.com/SaroashDS/OpenCV-based-face-detection-for-security-systems/assets/144798692/da857817-1764-4d79-842f-ca53c3694bd5)
 
-3. **Model Training:**
+2. **Model Training:**
    The collected facial images are used to train the LBPH Face Recognizer model. This model learns the unique features of each individual's face and establishes a baseline for future recognition.
 <p align="center">
   <img src="https://github.com/SaroashDS/OpenCV-based-face-detection-for-security-systems/assets/144798692/a6446794-2ec0-4de1-9bf5-4bf96d2b8528" alt="Image" width="400">
 </p>
 
-5. **Real-time Face Detection:**
+3. **Real-time Face Detection:**
    The core of the system lies in the real-time face detection and recognition module. This module continuously captures video frames from the webcam, detects faces, and recognizes individuals based on the trained model.
 <p align="center">
   <img src="https://github.com/SaroashDS/OpenCV-based-face-detection-for-security-systems/assets/144798692/a2785ad2-2312-4eac-bd92-ceea4b2e20e4" alt="Image" width="400">
